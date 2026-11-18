@@ -1,11 +1,11 @@
 
 {
-  "id": "/nguyenbaviet_Tieudoan2_sudoan7/",
-  "name": "Phòng Hồ Chí Minh - Tiểu đoàn 2",
-  "short_name": "Tiểu đoàn 2",
-  "description": "Ứng dụng Phòng Hồ Chí Minh - Tiểu đoàn 2",
-  "start_url": "/nguyenbaviet_Tieudoan2_sudoan7/",
-  "scope": "/nguyenbaviet_Tieudoan2_sudoan7/",
+  "id": "/TrầnHoàiPhúc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
+  "name": "Phòng Hồ Chí Minh - Tiểu đoàn 5",
+  "short_name": "Tiểu đoàn 5",
+  "description": "Ứng dụng Phòng Hồ Chí Minh - Tiểu đoàn 5",
+  "start_url": "/TrầnHoàiPhúc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
+  "scope": "/TrầnHoàiPhúc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
