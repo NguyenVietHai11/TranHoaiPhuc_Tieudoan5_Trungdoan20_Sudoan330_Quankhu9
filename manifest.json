@@ -1,25 +1,27 @@
 
 {
-  "id": "/TrầnHoàiPhúc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
+  "id": "/TranHoaiPhuc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
   "name": "Phòng Hồ Chí Minh - Tiểu đoàn 5",
   "short_name": "Tiểu đoàn 5",
   "description": "Ứng dụng Phòng Hồ Chí Minh - Tiểu đoàn 5",
-  "start_url": "/TrầnHoàiPhúc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
-  "scope": "/TrầnHoàiPhúc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
+  "start_url": "/TranHoaiPhuc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
+  "scope": "/TranHoaiPhuc_Tieudoan5_Trungdoan20_Sudoan330_Quankhu9/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#123b65",
-"icons": [
-  {
-    "src": "./icon-192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  },
-  {
-    "src": "./icon-512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
- ]
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
